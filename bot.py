@@ -1,5 +1,5 @@
 import streamlit as st
-from chatterbot import ChatBot
+from ChatterBot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
 
 # Create a new instance of a ChatBot
